@@ -1,0 +1,32 @@
+.second-page{
+    background-color: black;
+    width: 100%;
+    
+
+}
+.apple-event{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.second-page .learn-more-button{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.event{
+    width: 600px;
+}
+.second-page a{
+    text-decoration: none;
+    
+
+}
+.second-page h1{
+    color: white;
+    font-size: 40px;
+}
+.second-page  p{
+    color: white;
+    font-size: 25px;
+}

@@ -1,0 +1,60 @@
+.first-page{
+    background-color: rgb(245, 245, 247);
+    width: 100%;
+    padding-top: 100px;
+    
+}
+.first-page a{
+    text-decoration: none;
+    color: black;
+}
+.product-container{
+    text-align: center;
+}
+
+
+.add{
+    padding-left:  250px;
+    
+}
+.Education-store {
+    font-size: 48px;
+    font-weight: 600;
+    padding: 80px 80px;
+
+}
+.product-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 40px;
+}
+.products{
+    padding-right: 30px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.mac-photo{
+    width: 130px;
+}
+.ipad-photo{
+    width: 130px;
+}
+.iphone-photo{
+    width: 130px;
+}
+.watch-photo{
+    width: 130px;
+}
+.airpods-photo{
+    width: 130px;
+}
+.airtag-photo{
+    width: 130px;
+}
+.homepod-photo{
+    width: 130px;
+}

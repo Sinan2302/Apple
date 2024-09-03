@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+.header{
+background-color: rgb(22, 22, 23);
+height: 48px;
+width: 100%;
+position: fixed;
+
+}
+.head-icon{
+    width: 990px;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(235, 232, 232);
+    font-size:15px ;
+}
+
+.apple-logo{
+    width: 50px;
+}
+.search-icon{
+    width: 25px;
+}
+.shop-icon{
+    width: 30px;
+}

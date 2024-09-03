@@ -1,0 +1,44 @@
+.forth-page{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 15px;
+}
+.forth-A{
+    background-color: rgb(245, 245, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.forth-page h1,p{
+    padding-bottom: 10px;
+}
+.forth-page h1{
+    font-size: 40px;
+}
+.forth-B h1{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.forth-page p{
+    padding-bottom: 20px;
+}
+.forth-A .buttons{
+    padding-bottom: 20px;
+}
+.mac-img{
+    padding-bottom: 30px;
+    width: 250px;
+}
+.iphone-15pro{
+    width: 400px;
+}
+
+.forth-B{
+    background-color:rgb(245, 245, 247) ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,35 @@
+.third-page{
+    background-color: black;
+    color: white;
+}
+.iphone-add{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.third-page .learn-more-button{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.third-page h1{
+    margin-bottom: 15px;
+}
+.iphone-15{
+    width: 80%;
+    padding-bottom: 20px;
+}
+.third-page h1{
+    color: white;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.third-page  p{
+    color: white;
+    font-size: 25px;
+}
+.third-page .learn-more-button{
+    margin-bottom: 40px;
+    
+}

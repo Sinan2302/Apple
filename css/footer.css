@@ -1,0 +1,78 @@
+.footer{
+    background-color: rgb(245, 245, 247);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer-content{
+    width: 980px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+.p1{
+    margin-top: 20px;
+}
+
+.footer-content p{
+    font-size:12px ;
+    color: rgba(0,0,0,0.56);
+}
+.footer-content a{
+    font-size: 14px;
+    color: rgba(0,0,0,0.56);
+}
+.footer-content h4{
+    color: rgba(0,0,0,0.56);
+}
+.help-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 380px;
+    width: 100%;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color:  rgba(0,0,0,0.56);
+    padding: 25px 0;
+}
+.shop-learn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.account-entertainment{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.apple-store{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.for-bus-edu{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.apple-value-about{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.help-line a{
+color: rgb(81, 179, 179);
+}
+.policy{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 450px;
+}

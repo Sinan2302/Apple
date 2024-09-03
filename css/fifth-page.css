@@ -1,0 +1,44 @@
+.fifth-page{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 15px;
+}
+.fifth-page a{
+    text-decoration: none;
+}
+.fifth-A{
+    background-color: rgb(245, 245, 247);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.fifth-B{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.fifth-B p{
+    color: white;
+}
+.fifth-A .buttons{
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.fifth-A h1{
+    font-size: 40px;
+}
+.fifth-A .intel{
+    width: 100%;
+}
+.fifth-B .watch{
+    width: 100%;
+}
+.watch-logo{
+    width: 160px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
